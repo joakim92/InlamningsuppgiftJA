@@ -21,7 +21,7 @@ public class TextRead {
 
         System.out.println("Hejsan och välkommen! Vänligen skriv in valfritt antal rader. ");
         while(true){
-            String input =  scanner.next();
+            String input =  scanner.nextLine();
 
             if(input.equalsIgnoreCase("stop")){
                 break;

@@ -1,7 +1,5 @@
 package del2fortsättning;
 
-
-
 public class TextCheck {
 
     private int antalRader;

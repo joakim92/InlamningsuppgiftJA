@@ -12,7 +12,7 @@ public class Tests {
         textCheck.addLine("This is a line");
         textCheck.addLine("Another line");
 
-        assertEquals(2, textCheck.getAntalRader(), "Antal raderd bör vara 2 efter att ha lagt till två rader");
+        assertEquals(2, textCheck.getAntalRader(), "Antal rader bör vara 2 efter att ha lagt till två rader");
     }
 
 
