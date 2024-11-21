@@ -1,8 +1,5 @@
 
-
-
-
-package inlamningsuppgift1;
+package del2;
 import java.util.Scanner;
 
 public class Main {
@@ -28,8 +25,8 @@ public class Main {
 
         scanner.close();
 
-        System.out.println("Antal tecken är; "+antalbokstaver);
-        System.out.println("Antal rader är"+antalrader);
+        System.out.println("Antal tecken är: "+antalbokstaver);
+        System.out.println("Antal rader är :"+antalrader);
 
 
 
